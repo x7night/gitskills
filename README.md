@@ -1,2 +1,6 @@
 # gitskills
-create  a new branch is qucik
+<<<<<<< HEAD
+create  a new branch is qucik and simple
+=======
+create  a new branch is qucik and simple
+>>>>>>> feature1
